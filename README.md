@@ -4,24 +4,14 @@
  
 <br/>
  
-```
-███╗   ███╗ ██████╗ ██╗  ██╗████████╗ █████╗ ██╗     ██╗██████╗ 
-████╗ ████║██╔═══██╗██║  ██║╚══██╔══╝██╔══██╗██║     ██║██╔══██╗
-██╔████╔██║██║   ██║███████║   ██║   ███████║██║     ██║██████╔╝
-██║╚██╔╝██║██║   ██║██╔══██║   ██║   ██╔══██║██║     ██║██╔══██╗
-██║ ╚═╝ ██║╚██████╔╝██║  ██║   ██║   ██║  ██║███████╗██║██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝╚═════╝ 
-```
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami+--+Full-Stack+Developer;%24+nmap+-sV+--+Cybersecurity+Researcher;%24+python3+ai_engine.py+--+ML+Engineer;%24+./exploit.sh+--+Bug+Bounty+Hunter;%24+git+push+origin+main+--+CLI+Tool+Builder;%24+sudo+su+--+Always+Root+of+the+Problem+%F0%9F%98%88)](https://git.io/typing-svg)
  
-<br/>
+
  
  
 </div>
- 
-
- 
+  
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=9999&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+profile...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+%5B+OK+%5D" alt=""/>
 </div>
